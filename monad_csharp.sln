@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "monad_csharp", "monad_csharp\monad_csharp.csproj", "{406A3C75-8CE3-42F4-9E37-128FBD127FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{406A3C75-8CE3-42F4-9E37-128FBD127FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406A3C75-8CE3-42F4-9E37-128FBD127FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406A3C75-8CE3-42F4-9E37-128FBD127FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406A3C75-8CE3-42F4-9E37-128FBD127FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

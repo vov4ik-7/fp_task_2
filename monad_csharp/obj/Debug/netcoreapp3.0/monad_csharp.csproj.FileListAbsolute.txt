@@ -1,0 +1,11 @@
+/Users/vova/Desktop/monad_csharp/monad_csharp/bin/Debug/netcoreapp3.0/monad_csharp
+/Users/vova/Desktop/monad_csharp/monad_csharp/bin/Debug/netcoreapp3.0/monad_csharp.deps.json
+/Users/vova/Desktop/monad_csharp/monad_csharp/bin/Debug/netcoreapp3.0/monad_csharp.runtimeconfig.json
+/Users/vova/Desktop/monad_csharp/monad_csharp/bin/Debug/netcoreapp3.0/monad_csharp.runtimeconfig.dev.json
+/Users/vova/Desktop/monad_csharp/monad_csharp/bin/Debug/netcoreapp3.0/monad_csharp.dll
+/Users/vova/Desktop/monad_csharp/monad_csharp/bin/Debug/netcoreapp3.0/monad_csharp.pdb
+/Users/vova/Desktop/monad_csharp/monad_csharp/obj/Debug/netcoreapp3.0/monad_csharp.csprojAssemblyReference.cache
+/Users/vova/Desktop/monad_csharp/monad_csharp/obj/Debug/netcoreapp3.0/monad_csharp.AssemblyInfoInputs.cache
+/Users/vova/Desktop/monad_csharp/monad_csharp/obj/Debug/netcoreapp3.0/monad_csharp.AssemblyInfo.cs
+/Users/vova/Desktop/monad_csharp/monad_csharp/obj/Debug/netcoreapp3.0/monad_csharp.dll
+/Users/vova/Desktop/monad_csharp/monad_csharp/obj/Debug/netcoreapp3.0/monad_csharp.pdb
