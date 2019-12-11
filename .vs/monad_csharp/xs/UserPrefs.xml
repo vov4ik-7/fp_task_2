@@ -2,9 +2,10 @@
   <MonoDevelop.Ide.ItemProperties.monad__csharp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="monad_csharp/Program.cs">
     <Files>
-      <File FileName="monad_csharp/Program.cs" Line="9" Column="21" />
-      <File FileName="monad_csharp/Try.cs" Line="21" Column="10" />
-      <File FileName="monad_csharp/Maybe.cs" Line="16" Column="27" />
+      <File FileName="monad_csharp/Program.cs" Line="11" Column="18" />
+      <File FileName="monad_csharp/Try.cs" />
+      <File FileName="monad_csharp/Maybe.cs" />
+      <File FileName="monad_csharp/IO.cs" Line="35" Column="67" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

@@ -8,6 +8,7 @@ namespace monad_csharp
         {
             Maybe();
             Try();
+            IO();
         }
 
         static void Try()
@@ -51,6 +52,11 @@ namespace monad_csharp
                 .If(x => x.Length > 4)
                 .Do(Console.WriteLine)
                 .ReturnSuccess();
+        }
+
+        static void IO()
+        {
+            ((RuntimeAction)FunctionalProgram.Main).perform();
         }
     }
 
